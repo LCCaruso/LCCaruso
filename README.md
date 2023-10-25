@@ -1,15 +1,11 @@
-<h1 align="center">Bienvenido!👋</h1>
+<h1 align="center">Bienvenidos!👋</h1>
 <h3 align="center">Mi nombre es Lucas Caruso y soy Desarrollador Fullstack.</h3>
-  <h3 align="left">Sobre mi:</h3>
+<h3 align="left">Sobre mi:</h3>
   
 - 📫 Contáctame via email: lucas.caruso27@gmail.com
-- 📲 Full Stack developer<br>
-- ✏️ Estudios terminados en SoyHenry Bootcamp
-  <h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/lucas-caruso-15531b13a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/adriel-n-diaz/" height="30" width="40" /></a>
-</p>
-
+- 📲 Full Stack developer con prácticas y conocimientos en Backend y Frontend.<br>
+- ✏️ Estudios terminados en SoyHenry Bootcamp.
+<h3 align="left">Conéctate conmigo en LinkedIn: <a href="www.linkedin.com/in/lucas-caruso-15531b13a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/in/adriel-n-diaz/" height="30" width="40" /></a></h3>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
